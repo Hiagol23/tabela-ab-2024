@@ -1,4 +1,4 @@
-# Landing Page - Imagens
+# Landing Page - Tabela
 
 ![alt text](image.png)
 ---
